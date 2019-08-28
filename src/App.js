@@ -83,7 +83,7 @@ class App extends Component{
                           </div>
 
                           <div className="col-12">
-                            <button type="button" className="btn btn-primary"  >Comprar</button>
+                            <button type="button" className="btn btn-primary"  data-dismiss="modal" >Comprar</button>
                           </div>
 
 
